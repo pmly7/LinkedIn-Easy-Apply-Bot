@@ -53,3 +53,7 @@ To execute the bot run the following in your terminal
 python3 easyapplybot.py
 ```
 
+## Git 
+
+git config --global user.name "Pratima Malyala"
+git config --global user.email "pratimamalyala@gmail.com"
